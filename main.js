@@ -1,4 +1,4 @@
-let kalorilist = [];
+let kalorilist = []; 
 function addkaja1(){
     let kalori = parseInt(document.getElementById('kaloria').textContent);
     kalori += 20;
